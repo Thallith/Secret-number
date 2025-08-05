@@ -1,0 +1,10 @@
+# Colocar quais arquivos e diretórios do projeto queremos ignorar
+
+# Ignorar pastas
+temp/
+
+# Ignorar arquivos (nome específico)
+# arquivo.txt
+
+# Ignorar um padrão, por exemplo, os arquivos do css
+# *.css
